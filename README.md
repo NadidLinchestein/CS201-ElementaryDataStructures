@@ -86,8 +86,7 @@ This course is a rigorous journey into the realm of computational theory and pra
 
 ## Authors
 
-- **Nadid Linchestein**  
-  Passionate about creating impactful educational content for aspiring developers. Connect with me on GitHub: [@NadidLinchestein](https://github.com/NadidLinchestein)
+Passionate about creating impactful educational content for aspiring developers. [@NadidLinchestein](https://github.com/NadidLinchestein)
 
 ## License
 
