@@ -1,0 +1,10 @@
+This course includes the following units:
+
+Unit 1: Abstract Data Types and Arrays in C++
+Unit 2: Introduction to Stacks and Queues
+Unit 3: Pointers and References in C++
+Unit 4: Dynamic Memory Allocation
+Unit 5: Linked Stacks, Queues, and Lists
+Unit 6: Algorithm Efficiency
+Unit 7: Searching and Sorting Algorithms
+Unit 8: Hash Tables, Graphs, and Trees
