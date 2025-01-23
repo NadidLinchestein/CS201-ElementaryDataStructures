@@ -76,9 +76,19 @@ By completing this course, you will:
 ## Assessment and Certification
 
 - To earn the **CS201 Course Completion Certificate**, you must score **70% or higher** on the **Final Exam**.
-- Multiple attempts are permitted, with a mandatory **7-day waiting period** between retakes.
 - The certificate validates your proficiency in foundational **Data Structures and Algorithms**, a critical skillset for advanced computing roles.
 
 ---
 
 This course is a rigorous journey into the realm of computational theory and practical engineering, equipping you with the technical acumen required for tackling real-world software development challenges.
+
+---
+
+## Authors
+
+- **Nadid Linchestein**  
+  Passionate about creating impactful educational content for aspiring developers. Connect with me on GitHub: [@NadidLinchestein](https://github.com/NadidLinchestein)
+
+## License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/), granting you the freedom to use, modify, and distribute this content with proper attribution.
